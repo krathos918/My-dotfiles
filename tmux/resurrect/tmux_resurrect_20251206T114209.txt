@@ -1,0 +1,6 @@
+pane	0	1	0	:-	1	andrea@Matebook: ../Text adventure	:/home/andrea/Documents/Projects/Text\ adventure	1	bash	:
+pane	0	2	1	:*	1	andrea@Matebook: ../Text adventure	:/home/andrea/Documents/Projects/Text\ adventure	0	vim	:vim
+pane	0	2	1	:*	2	andrea@Matebook: ~	:/home/andrea	1	emacs	:emacs -nw
+window	0	1	:bash	0	:-	b841,132x43,0,0,4	:
+window	0	2	:emacs	1	:*	a7c6,132x43,0,0{66x43,0,0,2,65x43,67,0,7}	:
+state	0	

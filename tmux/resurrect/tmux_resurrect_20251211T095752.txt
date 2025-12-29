@@ -1,0 +1,7 @@
+pane	BIGDATA	1	1	:*	1	Basket_analysis_1.py (~/Documents/Studio/Esercizi/Big Data Esercitazioni/Market Basket analysis) - Nvim	:/home/andrea	1	nvim	:/snap/nvim/4611/usr/bin/nvim
+pane	BIGDATA	2	0	:-	1	andrea@Matebook: ../Market Basket analysis	:/home/andrea/Documents/Studio/Esercizi/Big\ Data Esercitazioni/Market Basket analysis	1	bash	:
+pane	BIGDATA	3	0	:	1	andrea@Matebook: ~	:/home/andrea/Documents/Studio/Esercizi/Big\ Data Esercitazioni	1	python3	:/usr/bin/python3 -O /usr/bin/ranger
+window	BIGDATA	1	:nvim	1	:*	afbd,131x41,0,0,0	:
+window	BIGDATA	2	:bash	0	:-	afbe,131x41,0,0,1	:
+window	BIGDATA	3	:python3	0	:	afc0,131x41,0,0,3	:
+state	BIGDATA	

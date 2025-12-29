@@ -1,0 +1,5 @@
+pane	0	1	1	:*	1	andrea@Matebook: ../Text adventure	:/home/andrea/Documents/Projects/Text\ adventure	1	bash	:
+pane	0	2	0	:-	1	andrea@Matebook: ../Text adventure	:/home/andrea/Documents/Projects/Text\ adventure	1	vim	:vim
+window	0	1	:bash	1	:*	afc2,131x41,0,0,5	:
+window	0	2	:vim	0	:-	afc1,131x41,0,0,4	:
+state	0	
